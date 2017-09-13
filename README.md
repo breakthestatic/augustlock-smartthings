@@ -9,8 +9,8 @@ This project is based on [AugustCtl](https://github.com/sretlawd/augustctl) libr
 ### Installation procedures
 
 Clone two different projects:
-* [augustlock-smartthings](https://github.com/robson83/augustlock-smartthings)
-* [augustlock-api](https://github.com/robson83/augustctl)
+* [augustlock-smartthings](https://github.com/breakthestatic/augustlock-smartthings)
+* [augustlock-api](https://github.com/breakthestatic/augustctl)
 
 Then, follow the steps below.
 
@@ -53,7 +53,7 @@ Pending to be done:
 
 ### Screenshots
 
-![Unlocked](https://github.com/robson83/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8507_1024.jpg "Unlocked")
-![Unlocked full](https://github.com/robson83/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8508_1024.jpg "Unlocked full")
-![Waiting full](https://github.com/robson83/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8509_1024.jpg "Waiting full")
-![Locked full](https://github.com/robson83/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8510_1024.jpg "Locked full")
+![Unlocked](https://github.com/breakthestatic/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8507_1024.jpg "Unlocked")
+![Unlocked full](https://github.com/breakthestatic/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8508_1024.jpg "Unlocked full")
+![Waiting full](https://github.com/breakthestatic/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8509_1024.jpg "Waiting full")
+![Locked full](https://github.com/breakthestatic/augustlock-smartthings/blob/7f755fd099ac530076051c4b265f7e4d99b5d6be/thumb_IMG_8510_1024.jpg "Locked full")
